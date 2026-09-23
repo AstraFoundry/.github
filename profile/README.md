@@ -4,7 +4,6 @@
 
 **Building the software and hardware foundations for the next generation of humans and agents, paving the way to AGI.**
 
-[Website](https://usekumo.app) · [App](https://github.com/AstraFoundry/KumoApp) · [Docs](https://github.com/AstraFoundry/Kumo-docs) · [Issues](https://github.com/ProjectKumo/KumoApp/issues)
 
 ---
 
