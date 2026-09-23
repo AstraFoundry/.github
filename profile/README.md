@@ -27,3 +27,7 @@ measure, and in doing so, to see into the fundamental nature of the universe.
   world where agents are first-class users alongside humans.
 
 Our first product is [Kumo](https://usekumo.app).
+
+---
+
+<sub>Banner footage: Artemis I launch and night sky over Kennedy Space Center, courtesy of NASA.</sub>
